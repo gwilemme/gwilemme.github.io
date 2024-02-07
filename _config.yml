@@ -1,2 +1,21 @@
-name: My Site
-theme: minima
+# Site settings
+title: Guillaume Wilemme
+description: Website of G. Wilemme
+url: "https://gwilemme.github.io" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima #jekyll-theme-cayman # Change this to the theme you're using, if any
+plugins: [] # Add any plugins you want to use here
+
+# Navigation links
+nav:
+  - text: Home
+    url: /
+
+# Permalinks
+permalink: /:title/
+
+# Exclude files from processing
+exclude:
+  - README.md
+
