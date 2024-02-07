@@ -1,2 +1,3 @@
-# gwilemme.github.io
-Website of Guillaume Wilemme
+# Guillaume Wilemme
+
+Website of Guillaume Wilemme - in progress
