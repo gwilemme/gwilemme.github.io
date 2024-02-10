@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 I am an Assistant Professor of Economics at the [University of Leicester, School of Business](https://le.ac.uk/school-of-business).
 
 Research fields: Labour Economics, Structural Econometrics.
