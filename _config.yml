@@ -5,7 +5,8 @@ description: Research economist
 
 # Build settings
 theme: minimal
-#plugins: [] # Add any plugins you want to use here
+plugins: 
+- jekyll-remote-theme 
 
 # Navigation links
 #nav:
