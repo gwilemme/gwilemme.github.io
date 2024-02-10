@@ -4,7 +4,7 @@ description: Research economist
 #url: "https://gwilemme.github.io" # the base hostname & protocol for your site
 
 # Build settings
-theme: minima #jekyll-theme-cayman # Change this to the theme you're using, if any
+theme: no-style-please #jekyll-theme-cayman # Change this to the theme you're using, if any
 #plugins: [] # Add any plugins you want to use here
 
 # Navigation links
