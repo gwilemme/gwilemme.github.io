@@ -4,7 +4,7 @@ description: Research economist
 #url: "https://gwilemme.github.io" # the base hostname & protocol for your site
 
 # Build settings
-theme: cayman
+theme: theme: jekyll-theme-cayman
 
 # Navigation links
 #nav:
