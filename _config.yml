@@ -13,6 +13,6 @@ theme: minima #jekyll-theme-cayman # Change this to the theme you're using, if a
   #  url: /
 
 # Permalinks
-#permalink: /:title/
+permalink: /Home
 
 
