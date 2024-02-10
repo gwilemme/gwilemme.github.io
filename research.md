@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 #### Working Papers
-- Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory, *R&R International Economic Review*, with [Bruno Decreuse](https://sites.google.com/site/brunodecreuseecon/) (Aix-Marseille School of Economics)
+- [Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory](papers/RDD_age_disc.pdf), *R&R International Economic Review*, with [Bruno Decreuse](https://sites.google.com/site/brunodecreuseecon/) (Aix-Marseille School of Economics)
 - Regional Unemployment Persistence and Agglomeration Effects, with [Pierre Deschamps](https://sites.google.com/site/pierredeschampsecon/) (Stockholm University)
 - A Dynamic Empirical Model of Frictional Spatial Job Search, with [Christian Schluter](https://christianschluter.github.io/) (Aix-Marseille School of Economics),
 - Career Paths with a Two-Body Problem: Occupational Specialization and Geographic Mobility, with [Valeria Rueda](https://www.valeriarueda.org/)
