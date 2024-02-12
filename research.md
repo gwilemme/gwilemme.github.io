@@ -13,7 +13,7 @@ title: "Research"
 - [Career Paths with a Two-Body Problem: Occupational Specialization and Geographic Mobility](https://research.upjohn.org/up_workingpapers/346/){:target="_blank"}, with [Valeria Rueda](https://www.valeriarueda.org/){:target="_blank"} (U. of Nottingham), more recent version upon request
 
 #### Published
-- Optimal Taxation to Correct Job Mismatching, *Review of Economic Dynamics*, 2021 ([article](https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934#preview-section-cited-by){:target="_blank"}, [WP version](assets/papers/opmismatch.pdf){:target="_blank"}, [codes](https://github.com/gwilemme/Opmismatch/){:target="_blank"})
+- Optimal Taxation to Correct Job Mismatching, *Review of Economic Dynamics*, 2021 ([article](https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934){:target="_blank"}, [WP version](assets/papers/opmismatch.pdf){:target="_blank"}, [codes](https://github.com/gwilemme/Opmismatch/){:target="_blank"})
 
 - 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods. *Revue Economique*, 2024, with [Valeria Rueda](https://www.valeriarueda.org/){:target="_blank"} (U. of Nottingham)
 
