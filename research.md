@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 #### Working Papers
-- [Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory](papers/RDD_age_disc.pdf), *R&R International Economic Review*, with [Bruno Decreuse](https://sites.google.com/site/brunodecreuseecon/) (Aix-Marseille School of Economics)
+- [Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory](assets/papers/RDD_age_disc.pdf), *R&R International Economic Review*, with [Bruno Decreuse](https://sites.google.com/site/brunodecreuseecon/) (Aix-Marseille School of Economics)
 
 - [Local Labor Market Dynamics and Agglomeration Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989), with [Pierre Deschamps](https://sites.google.com/site/pierredeschampsecon/) (Stockholm University)
 
@@ -13,7 +13,7 @@ title: "Research"
 - [Career Paths with a Two-Body Problem: Occupational Specialization and Geographic Mobility](https://research.upjohn.org/up_workingpapers/346/), with [Valeria Rueda](https://www.valeriarueda.org/), more recent version upon request
 
 #### Published
-- Optimal Taxation to Correct Job Mismatching, *Review of Economic Dynamics*, 2021 ([article](https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934#preview-section-cited-by), [WP version](papers/opmismatch.pdf), [codes](https://github.com/gwilemme/Opmismatch/))
+- Optimal Taxation to Correct Job Mismatching, *Review of Economic Dynamics*, 2021 ([article](https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934#preview-section-cited-by), [WP version](assets/papers/opmismatch.pdf), [codes](https://github.com/gwilemme/Opmismatch/))
 
 - 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods. *Revue Economique*, 2024, with [Valeria Rueda](https://www.valeriarueda.org/) (U. of Nottingham)
 
