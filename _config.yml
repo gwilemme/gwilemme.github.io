@@ -5,13 +5,6 @@ description: Research economist
 
 # Build settings
 theme: jekyll-theme-minimal
-
-# Navigation links
-#nav:
- # - text: Home
-  #  url: /
-
-# Permalinks
-#permalink: /home
+logo: /assets/img/brookfield1.jpg
 
 
