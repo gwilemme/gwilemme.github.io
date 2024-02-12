@@ -10,7 +10,7 @@ title: "Research"
 
 - [A Dynamic Empirical Model of Frictional Spatial Job Search](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517222), with [Christian Schluter](https://christianschluter.github.io/) (Aix-Marseille School of Economics)
 
-- [Career Paths with a Two-Body Problem: Occupational Specialization and Geographic Mobility](https://research.upjohn.org/up_workingpapers/346/), with [Valeria Rueda](https://www.valeriarueda.org/), more recent version upon request
+- [Career Paths with a Two-Body Problem: Occupational Specialization and Geographic Mobility](https://research.upjohn.org/up_workingpapers/346/), with [Valeria Rueda](https://www.valeriarueda.org/) (U. of Nottingham), more recent version upon request
 
 #### Published
 - Optimal Taxation to Correct Job Mismatching, *Review of Economic Dynamics*, 2021 ([article](https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934#preview-section-cited-by), [WP version](assets/papers/opmismatch.pdf), [codes](https://github.com/gwilemme/Opmismatch/))
