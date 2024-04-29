@@ -12,7 +12,7 @@ title: "Research"
 
 - [Career Paths with a Two-Body Problem: Occupational Specialization and Geographic Mobility](https://research.upjohn.org/up_workingpapers/346/){:target="_blank"}, with [Valeria Rueda](https://www.valeriarueda.org/){:target="_blank"}, more recent version upon request
 
-- [Robots and Firms’ Labour Search: The Role of Temporary Work Agencies](https://www.nottingham.ac.uk/gep/documents/papers/2024/24-02.pdf){:target="_blank"}, with [Pilar Beneito](https://www.uv.es/~beneito/){:target="_blank"}, [Mar\'ia Garc\'ia-Vega](https://mgarcia-vega.wixsite.com/mariagarciavega){:target="_blank"} and [\'Oscar Vicente-Chirivella](https://scholar.google.es/citations?user=OuwooxUAAAAJ&hl=es){:target="_blank"}
+- [Robots and Firms’ Labour Search: The Role of Temporary Work Agencies](https://www.nottingham.ac.uk/gep/documents/papers/2024/24-02.pdf){:target="_blank"}, with [Pilar Beneito](https://www.uv.es/~beneito/){:target="_blank"}, [Mar&iacute;a Garc&iacute;a-Vega](https://mgarcia-vega.wixsite.com/mariagarciavega){:target="_blank"} and [&#xc2;scar Vicente-Chirivella](https://scholar.google.es/citations?user=OuwooxUAAAAJ&hl=es){:target="_blank"}
 
 
 #### Published
