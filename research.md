@@ -18,7 +18,7 @@ title: "Research"
 #### Published
 - Optimal Taxation to Correct Job Mismatching, *Review of Economic Dynamics*, 2021 [[article](https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934){:target="_blank"}, [WP version](assets/papers/opmismatch.pdf){:target="_blank"}, [codes](https://github.com/gwilemme/Opmismatch/){:target="_blank"}]
 
-- 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods. *Revue Economique*, 2024, with [Valeria Rueda](https://www.valeriarueda.org/){:target="_blank"} [[article](https://www.cairn-int.info/journal-revue-economique-2023-6-page-1053.htm){:target="_blank"}]
+- 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods. *Revue Economique*, 2023, with [Valeria Rueda](https://www.valeriarueda.org/){:target="_blank"} [[article](https://www.cairn-int.info/journal-revue-economique-2023-6-page-1053.htm){:target="_blank"}]
   
 
 #### Policy Reports
