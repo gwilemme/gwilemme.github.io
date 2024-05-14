@@ -18,9 +18,14 @@ title: "Research"
       </a>
       <br> <pre><em>     R&R International Economic Review</em></pre>
     </li>
-
-  
-    <li>This is the second item</li>
+    <li>
+      <a href=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989 target="_blank">  
+        Local Labor Market Dynamics and Agglomeration Effects
+      </a>
+      , with <a href=https://sites.google.com/site/pierredeschampsecon target="_blank">  
+        Pierre Deschamps
+      </a>
+    </li>
 
     
     <li>This is the third item</li>
