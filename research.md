@@ -35,9 +35,9 @@ title: "Research"
       - <a href="https://www.nottingham.ac.uk/gep/documents/papers/2024/24-02.pdf" target="_blank">  
         Robots and Firms’ Labour Search: The Role of Temporary Work Agencies
       </a>
-      , with <a href="https://www.uv.es/~beneito" target="_blank"> Pilar Beneito</a>
-      , <a href="https://mgarcia-vega.wixsite.com/mariagarciavega" target="_blank"> Mar&iacute;a Garc&iacute;a-Vega</a>
-      , and <a href="[https://www.uv.es/~beneito](https://scholar.google.es/citations?user=OuwooxUAAAAJ&hl=es)" target="_blank"> &Ograve;scar Vicente-Chirivella</a>
+      , with <a href="https://www.uv.es/~beneito" target="_blank"> Pilar Beneito</a>, 
+      <a href="https://mgarcia-vega.wixsite.com/mariagarciavega" target="_blank"> Mar&iacute;a Garc&iacute;a-Vega</a>, 
+      and <a href="[https://www.uv.es/~beneito](https://scholar.google.es/citations?user=OuwooxUAAAAJ&hl=es)" target="_blank"> &Ograve;scar Vicente-Chirivella</a>
     </li>
         <!-- Couples -->
     <li>
