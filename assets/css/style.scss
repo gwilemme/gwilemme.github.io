@@ -30,26 +30,47 @@ a:active {
   color:#3F3858;
 }
 
+//das
 
 a small {
   font-size:11px;
-  color:#3F3858;
+  color:#737373;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#3F3858;
+  color:#737373;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#3F3858;
+  color:#737373;
   margin:0 0 20px;
 }
 
 strong {
-  color:#3F3858;
+  color:#737373;
   font-weight:500;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color:#737373;
+}
+
+dt {
+  color:#737373;
+  font-weight:500;
+}
+
+th {
+  color:#737373;
+}
+
+header ul a strong {
+  font-size:14px;
+  display:block;
+  color:#737373;
 }
 
 
