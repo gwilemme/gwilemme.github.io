@@ -57,14 +57,7 @@ title: "Research"
   </ul>
 </div>
 
-- Optimal Taxation to Correct Job Mismatching, *Review of Economic Dynamics*, 2021
-<br> &nbsp; ---> [[article](https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934){:target="_blank"}, [WP version](assets/papers/opmismatch.pdf){:target="_blank"}, [codes](https://github.com/gwilemme/Opmismatch/){:target="_blank"}]
 
-
-- 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods. *Revue Economique*, 2023,
-<br> with [Valeria Rueda](https://www.valeriarueda.org/){:target="_blank"}
-<br> &nbsp; ---> [[article](https://www.cairn-int.info/journal-revue-economique-2023-6-page-1053.htm){:target="_blank"}]
-  
 
 #### Policy Reports
 - Redesigning Labour Market Policies for the Future of Work: Lessons from the 'Intermittents du Spectacle' scheme in France,
@@ -87,4 +80,14 @@ title: "Research"
 
 - [Robots and Firms’ Labour Search: The Role of Temporary Work Agencies](https://www.nottingham.ac.uk/gep/documents/papers/2024/24-02.pdf){:target="_blank"},
 <br> with [Pilar Beneito](https://www.uv.es/~beneito/){:target="_blank"}, [Mar&iacute;a Garc&iacute;a-Vega](https://mgarcia-vega.wixsite.com/mariagarciavega){:target="_blank"} and [&Ograve;scar Vicente-Chirivella](https://scholar.google.es/citations?user=OuwooxUAAAAJ&hl=es){:target="_blank"}
+-->
+
+
+<!--
+- Optimal Taxation to Correct Job Mismatching, *Review of Economic Dynamics*, 2021
+<br> &nbsp; -> [[article](https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934){:target="_blank"}, [WP version](assets/papers/opmismatch.pdf){:target="_blank"}, [codes](https://github.com/gwilemme/Opmismatch/){:target="_blank"}]
+
+- 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods. *Revue Economique*, 2023,
+<br> with [Valeria Rueda](https://www.valeriarueda.org/){:target="_blank"}
+<br> &nbsp; -> [[article](https://www.cairn-int.info/journal-revue-economique-2023-6-page-1053.htm){:target="_blank"}]
 -->
