@@ -5,6 +5,25 @@ title: "Research"
 
 ## Research
 
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+    <th>Header 3</th>
+  </tr>
+  <tr>
+    <td>Data 1</td>
+    <td>Data 2</td>
+    <td>Data 3</td>
+  </tr>
+  <tr>
+    <td>Data 4</td>
+    <td>Data 5</td>
+    <td>Data 6</td>
+  </tr>
+</table>
+
+
 #### Working Papers
 - [Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory](assets/papers/RDD_age_disc.pdf){:target="_blank"}, *R&R International Economic Review*, with [Bruno Decreuse](https://sites.google.com/site/brunodecreuseecon/){:target="_blank"}
 
