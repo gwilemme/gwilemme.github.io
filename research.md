@@ -15,7 +15,7 @@ title: "Research"
         Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory
       </a>
       , with <a href="https://sites.google.com/site/brunodecreuseecon" target="_blank">Bruno Decreuse</a>
-      <br> &nbsp; <i>R&R International Economic Review</i>
+      <br>  <i>R&R International Economic Review</i>
     </li>
     <!-- EcoGeo -->
     <li>
@@ -40,7 +40,7 @@ title: "Research"
       , <a href="https://mgarcia-vega.wixsite.com/mariagarciavega" target="_blank"> Mar&iacute;a Garc&iacute;a-Vega</a>
       , and <a href="[https://www.uv.es/~beneito](https://scholar.google.es/citations?user=OuwooxUAAAAJ&hl=es)" target="_blank"> &Ograve;scar Vicente-Chirivella</a>
     </li>
-        <!-- GeoMob -->
+        <!-- Couples -->
     <li>
       <a href="https://research.upjohn.org/up_workingpapers/346" target="_blank">  
         Career Paths with a Two-Body Problem: Occupational Specialization and Geographic Mobility
