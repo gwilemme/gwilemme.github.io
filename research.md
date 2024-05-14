@@ -16,7 +16,7 @@ title: "Research"
       , with <a href=https://sites.google.com/site/brunodecreuseecon target="_blank">  
         Bruno Decreuse
       </a>
-      <br> <em> R&R International Economic Review </em>
+      <br> <pre><em>     R&R International Economic Review</em></pre>
     </li>
 
   
