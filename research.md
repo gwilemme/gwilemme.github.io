@@ -52,7 +52,7 @@ title: "Research"
     <!-- NotreDame -->
     <li>
       -- Rueda, V. & Wilemme, G. (2023). 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods, <i>Revue Economique</i>, 74:1053-1065.
-      with <a href="https://sites.google.com/site/pierredeschampsecon" target="_blank">Pierre Deschamps</a>
+      <br> &nbsp; ---> [<a href="https://www.cairn-int.info/journal-revue-economique-2023-6-page-1053.htm" target="_blank">article</a>
     </li>
   </ul>
 </div>
