@@ -55,8 +55,8 @@ title: "Research"
   <ul>
     <li> Redesigning Labour Market Policies for the Future of Work: Lessons from the 'Intermittents du Spectacle' scheme in France,
 <br> &nbsp; with <a href="https://sites.google.com/view/helenebenghalem" target="_blank">Hélène Benghalem</a> and <a href="https://sites.google.com/site/piotrdenderski/" target="_blank">Piotr Denderski</a> 
-<br> &nbsp; ---> [[Nuffield Foundation project](https://www.nuffieldfoundation.org/project/redesigning-labour-market-policies-future-of-work){:target="_blank"}, [report](https://figshare.le.ac.uk/articles/report/Redesigning_Labour_Market_Policies_for_the_Future_of_Work_Lessons_from_the_Intermittents_du_Spectacle_scheme_in_France/24793638){:target="_blank"}] 
-    </li>
+<br> &nbsp; ---> [<a href="https://www.nuffieldfoundation.org/project/redesigning-labour-market-policies-future-of-work" target="_blank">Nuffield Foundation project</a>,
+                <a href="https://figshare.le.ac.uk/articles/report/Redesigning_Labour_Market_Policies_for_the_Future_of_Work_Lessons_from_the_Intermittents_du_Spectacle_scheme_in_France/24793638" target="_blank">report</a>]
   </ul>
 </div>
 
