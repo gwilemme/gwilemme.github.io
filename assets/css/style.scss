@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+
+//// 1) to tweak the navigation on the side
 nav ul {
  // list-style-type: square; // does not seem to work!
 }
@@ -12,8 +14,10 @@ nav ul li {
   font-size: 20px;
 }
 
+
+//// 2) colors
 // http://www.colorsontheweb.com/colorwizard.asp#wizard, used start set: 6C5F97
- // \definecolor{coltitre}{HTML}{6C5F97}
+// \definecolor{coltitre}{HTML}{6C5F97}
 // \definecolor{collight}{HTML}{A49CC0}
 // \definecolor{coldark}{HTML}{3F3858}
 
@@ -37,6 +41,19 @@ a:hover, a:focus, strong {
 }
 
 
+
+//// 3) list for research
+.rlist ul {
+  list-style-type: disc; /* Use disc bullets */
+  margin-left: 20px; /* Add left margin for indentation */
+}
+
+.rlist li {
+  margin-bottom: 5px; /* Add space between list items */
+}
+
+
+//// 4) Footer
 footer {
   width:200px;
   float:left;
