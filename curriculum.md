@@ -11,7 +11,7 @@ title: "Curriculum Vitae"
 <div class="clist">
   <ul>
     <li> 2019-present: Assistant professor of Economics, University of Leicester</li>
-    <li> 2016-2019: Post-doctoral researcher, Aix-Marseille University</li>
+    <li> 2016-2019: Postdoctoral researcher, Aix-Marseille University</li>
     <li> 2014-2015: Visting student researcher, UC Berkeley</li>
   </ul>
 </div>
