@@ -42,8 +42,24 @@ title: "Research"
 
 
 #### Published
+<div class="rlist">
+  <ul>
+    <!-- Tax paper -->
+    <li>
+      -- Wilemme, G. (2021). Optimal Taxation to Correct Job Mismatching. <i>Review of Economic Dynamics</i>, 40:170-197.
+      <br> &nbsp; ---> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934" target="_blank">article</a>, <a href="assets/papers/opmismatch.pdf" target="_blank">WP</a>, <a href="https://github.com/gwilemme/Opmismatch" target="_blank">codes</a>]
+    </li>
+    <!-- NotreDame -->
+    <li>
+      -- Rueda, V. & Wilemme, G. (2023). 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods, <i>Revue Economique</i>, 74:1053-1065.
+      with <a href="https://sites.google.com/site/pierredeschampsecon" target="_blank">Pierre Deschamps</a>
+    </li>
+  </ul>
+</div>
+
 - Optimal Taxation to Correct Job Mismatching, *Review of Economic Dynamics*, 2021
 <br> &nbsp; ---> [[article](https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934){:target="_blank"}, [WP version](assets/papers/opmismatch.pdf){:target="_blank"}, [codes](https://github.com/gwilemme/Opmismatch/){:target="_blank"}]
+
 
 - 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods. *Revue Economique*, 2023,
 <br> with [Valeria Rueda](https://www.valeriarueda.org/){:target="_blank"}
