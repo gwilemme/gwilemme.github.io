@@ -16,7 +16,7 @@ title: "Research"
       , with <a href=https://sites.google.com/site/brunodecreuseecon target="_blank">  
         Bruno Decreuse
       </a>
-      <br> <pre><em>     R&R International Economic Review</em></pre>
+      <br> <i>R&R International Economic Review</i>
     </li>
     <li>
       <a href=https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989 target="_blank">  
