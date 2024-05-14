@@ -16,6 +16,7 @@ title: "Research"
     <!-- EcoGeo -->
     <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989" target="_blank">Local Labor Market Dynamics and Agglomeration Effects</a>,
       with <a href="https://sites.google.com/site/pierredeschampsecon" target="_blank">Pierre Deschamps</a>
+      <br>  <i>submitted</i>
     </li>
     <!-- GeoMob -->
     <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517222" target="_blank">A Dynamic Empirical Model of Frictional Spatial Job Search</a>,
