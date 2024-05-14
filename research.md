@@ -46,13 +46,11 @@ title: "Research"
   <ul>
     <!-- Tax paper -->
     <li>
-      -- Wilemme, G. (2021). Optimal Taxation to Correct Job Mismatching. <i>Review of Economic Dynamics</i>, 40:170-197.
-      <br> &nbsp; ---> [<a href="https://doi.org/10.1016/j.red.2020.09.011" target="_blank">article</a>, <a href="assets/papers/opmismatch.pdf" target="_blank">WP</a>, <a href="https://github.com/gwilemme/Opmismatch" target="_blank">codes</a>]
+      -- Wilemme, G. (2021). Optimal Taxation to Correct Job Mismatching. <i>Review of Economic Dynamics</i>, 40:170-197. &nbsp;&nbsp; ---> [<a href="https://doi.org/10.1016/j.red.2020.09.011" target="_blank">article</a>, <a href="assets/papers/opmismatch.pdf" target="_blank">WP</a>, <a href="https://github.com/gwilemme/Opmismatch" target="_blank">codes</a>]
     </li>
     <!-- NotreDame -->
     <li>
-      -- Rueda, V. & Wilemme, G. (2023). 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods, <i>Revue Economique</i>, 74:1053-1065.
-      <br> &nbsp; ---> [<a href="https://doi.org/10.3917/reco.746.1053" target="_blank">article</a>]
+      -- Rueda, V. & Wilemme, G. (2023). 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods, <i>Revue Economique</i>, 74:1053-1065. &nbsp;&nbsp; ---> [<a href="https://doi.org/10.3917/reco.746.1053" target="_blank">article</a>]
     </li>
   </ul>
 </div>
@@ -60,8 +58,8 @@ title: "Research"
 
 
 #### Policy Reports
-- Redesigning Labour Market Policies for the Future of Work: Lessons from the 'Intermittents du Spectacle' scheme in France,
-<br> &nbsp; with [Hélène Benghalem](https://sites.google.com/view/helenebenghalem){:target="_blank"} and [Piotr Denderski](https://sites.google.com/site/piotrdenderski/){:target="_blank"}
+-- Redesigning Labour Market Policies for the Future of Work: Lessons from the 'Intermittents du Spectacle' scheme in France,
+<br> &nbsp; with <a href="https://sites.google.com/view/helenebenghalem" target="_blank">Hélène Benghalem</a> and <a href="https://sites.google.com/site/piotrdenderski/" target="_blank">Piotr Denderski</a> 
 <br> &nbsp; ---> [[Nuffield Foundation project](https://www.nuffieldfoundation.org/project/redesigning-labour-market-policies-future-of-work){:target="_blank"}, [report](https://figshare.le.ac.uk/articles/report/Redesigning_Labour_Market_Policies_for_the_Future_of_Work_Lessons_from_the_Intermittents_du_Spectacle_scheme_in_France/24793638){:target="_blank"}] 
 
 
