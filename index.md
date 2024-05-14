@@ -13,3 +13,11 @@ I investigate how job search prospects affect workers' careers – examining for
 
 Find more about my projects on [IDEAS/RePEc](https://ideas.repec.org/f/pwi407.html){:target="_blank"}, [LinkedIn](https://uk.linkedin.com/in/guillaume-wilemme-5bb000298){:target="_blank"}, and [GitHub](https://github.com/gwilemme){:target="_blank"}.
 
+
+<strong>Email:</strong> guillaume.wilemme[at]le.ac.uk
+  <br>
+<strong>Address:</strong> University of Leicester
+  <br>
+    BRK 1.23, Brookfield
+  <br>
+    223 London Road, Leicester LE21ZE
