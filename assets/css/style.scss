@@ -40,9 +40,21 @@ a:hover, a:focus, strong {
   color:#3F3858;
 }
 
+//// 3) research list
+.rlist ul {
+  list-style-type: none; /* or disc */
+  margin-left: 0px; /* Add left margin for indentation */
+}
 
+.rlist li {
+  margin-bottom: 5px; /* Add space between list items */
+}
 
-//// 3) Footer
+.rlist br {
+  margin-left: 40px;
+}
+
+//// 4) Footer, not used
 footer {
   width:200px;
   float:left;
