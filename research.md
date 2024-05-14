@@ -46,7 +46,7 @@ title: "Research"
   <ul>
     <!-- Tax paper -->
     <li>
-      -- Wilemme, G. (2021). Optimal Taxation to Correct Job Mismatching. <i>Review of Economic Dynamics</i>, 40:170-197.
+      -- Wilemme, G. (2021). Optimal Taxation to Correct Job Mismatching. <i>Review of Economic Dynamics</i>, <a href="https://doi.org/10.1016/j.red.2020.09.011" </a>.
       <br> &nbsp; ---> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934" target="_blank">article</a>, <a href="assets/papers/opmismatch.pdf" target="_blank">WP</a>, <a href="https://github.com/gwilemme/Opmismatch" target="_blank">codes</a>]
     </li>
     <!-- NotreDame -->
