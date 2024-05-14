@@ -12,30 +12,30 @@ title: "Research"
     <li>
       - <a href="assets/papers/RDD_age_disc.pdf" target="_blank">  
         Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory
-      </a>
-      , with <a href="https://sites.google.com/site/brunodecreuseecon" target="_blank">Bruno Decreuse</a>
+      </a>, 
+      with <a href="https://sites.google.com/site/brunodecreuseecon" target="_blank">Bruno Decreuse</a>
       <br>  <i>R&R International Economic Review</i>
     </li>
     <!-- EcoGeo -->
     <li>
       - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989" target="_blank">  
         Local Labor Market Dynamics and Agglomeration Effects
-      </a>
-      , with <a href="https://sites.google.com/site/pierredeschampsecon" target="_blank">Pierre Deschamps</a>
+      </a>,
+      with <a href="https://sites.google.com/site/pierredeschampsecon" target="_blank">Pierre Deschamps</a>
     </li>
     <!-- GeoMob -->
     <li>
       - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517222" target="_blank">  
         A Dynamic Empirical Model of Frictional Spatial Job Search
-      </a>
-      , with <a href="https://christianschluter.github.io" target="_blank">Christian Schluter</a>
+      </a>,
+      with <a href="https://christianschluter.github.io" target="_blank">Christian Schluter</a>
     </li>
         <!-- Robots -->
     <li>
       - <a href="https://www.nottingham.ac.uk/gep/documents/papers/2024/24-02.pdf" target="_blank">  
         Robots and Firms’ Labour Search: The Role of Temporary Work Agencies
-      </a>
-      , with <a href="https://www.uv.es/~beneito" target="_blank"> Pilar Beneito</a>, 
+      </a>,
+      with <a href="https://www.uv.es/~beneito" target="_blank"> Pilar Beneito</a>, 
       <a href="https://mgarcia-vega.wixsite.com/mariagarciavega" target="_blank"> Mar&iacute;a Garc&iacute;a-Vega</a>, 
       and <a href="https://scholar.google.es/citations?user=OuwooxUAAAAJ&hl=es" target="_blank"> &Oacute;scar Vicente-Chirivella</a>
     </li>
@@ -43,8 +43,8 @@ title: "Research"
     <li>
       - <a href="https://research.upjohn.org/up_workingpapers/346" target="_blank">  
         Career Paths with a Two-Body Problem: Occupational Specialization and Geographic Mobility
-      </a>
-      , with <a href="https://www.valeriarueda.org" target="_blank"> Valeria Rueda</a>
+      </a>,
+      with <a href="https://www.valeriarueda.org" target="_blank"> Valeria Rueda</a>
     </li>
   </ul>
 </div>
