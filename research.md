@@ -46,13 +46,13 @@ title: "Research"
   <ul>
     <!-- Tax paper -->
     <li>
-      -- Wilemme, G. (2021). Optimal Taxation to Correct Job Mismatching. <i>Review of Economic Dynamics</i>, <a href="https://doi.org/10.1016/j.red.2020.09.011"> </a>.
-      <br> &nbsp; ---> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934" target="_blank">article</a>, <a href="assets/papers/opmismatch.pdf" target="_blank">WP</a>, <a href="https://github.com/gwilemme/Opmismatch" target="_blank">codes</a>]
+      -- Wilemme, G. (2021). Optimal Taxation to Correct Job Mismatching. <i>Review of Economic Dynamics</i>, 40:170-197.
+      <br> &nbsp; ---> [<a href="https://doi.org/10.1016/j.red.2020.09.011" target="_blank">article</a>, <a href="assets/papers/opmismatch.pdf" target="_blank">WP</a>, <a href="https://github.com/gwilemme/Opmismatch" target="_blank">codes</a>]
     </li>
     <!-- NotreDame -->
     <li>
       -- Rueda, V. & Wilemme, G. (2023). 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods, <i>Revue Economique</i>, 74:1053-1065.
-      <br> &nbsp; ---> [<a href="https://www.cairn-int.info/journal-revue-economique-2023-6-page-1053.htm" target="_blank">article</a>]
+      <br> &nbsp; ---> [<a href="https://doi.org/10.3917/reco.746.1053" target="_blank">article</a>]
     </li>
   </ul>
 </div>
