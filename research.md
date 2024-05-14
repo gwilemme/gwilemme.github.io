@@ -22,8 +22,9 @@ title: "Research"
 - Optimal Taxation to Correct Job Mismatching, *Review of Economic Dynamics*, 2021 --> [[article](https://www.sciencedirect.com/science/article/abs/pii/S1094202520300934){:target="_blank"}, [WP version](assets/papers/opmismatch.pdf){:target="_blank"}, [codes](https://github.com/gwilemme/Opmismatch/){:target="_blank"}] <--
 
 - 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods. *Revue Economique*, 2023, with [Valeria Rueda](https://www.valeriarueda.org/){:target="_blank"}
-<br> --> [[article](https://www.cairn-int.info/journal-revue-economique-2023-6-page-1053.htm){:target="_blank"}] <--
+<br> ---> [[article](https://www.cairn-int.info/journal-revue-economique-2023-6-page-1053.htm){:target="_blank"}]
   
 
 #### Policy Reports
-- Redesigning Labour Market Policies for the Future of Work: Lessons from the 'Intermittents du Spectacle' scheme in France, with [Hélène Benghalem](https://sites.google.com/view/helenebenghalem){:target="_blank"} and [Piotr Denderski](https://sites.google.com/site/piotrdenderski/){:target="_blank"} --> [[Nuffield Foundation project](https://www.nuffieldfoundation.org/project/redesigning-labour-market-policies-future-of-work){:target="_blank"}, [report](https://figshare.le.ac.uk/articles/report/Redesigning_Labour_Market_Policies_for_the_Future_of_Work_Lessons_from_the_Intermittents_du_Spectacle_scheme_in_France/24793638){:target="_blank"}] <--
+- Redesigning Labour Market Policies for the Future of Work: Lessons from the 'Intermittents du Spectacle' scheme in France, with [Hélène Benghalem](https://sites.google.com/view/helenebenghalem){:target="_blank"} and [Piotr Denderski](https://sites.google.com/site/piotrdenderski/){:target="_blank"}
+<br> ---> [[Nuffield Foundation project](https://www.nuffieldfoundation.org/project/redesigning-labour-market-policies-future-of-work){:target="_blank"}, [report](https://figshare.le.ac.uk/articles/report/Redesigning_Labour_Market_Policies_for_the_Future_of_Work_Lessons_from_the_Intermittents_du_Spectacle_scheme_in_France/24793638){:target="_blank"}] 
