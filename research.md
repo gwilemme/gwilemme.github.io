@@ -9,7 +9,8 @@ title: "Research"
 
 <div class="rlist">
   <ul>
-    <li>This is the first item</li>
+    <li> - [Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory](assets/papers/RDD_age_disc.pdf){:target="_blank"}, *R&R International Economic Review*, 
+      <br> with [Bruno Decreuse](https://sites.google.com/site/brunodecreuseecon/){:target="_blank"}</li>
     <li>This is the second item</li>
     <li>This is the third item</li>
   </ul>
