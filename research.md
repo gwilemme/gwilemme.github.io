@@ -12,9 +12,9 @@ title: "Research"
     <th>Header 3</th>
   </tr>
   <tr>
-    <td>Data 1</td>
-    <td>Data 2</td>
-    <td>Data 3</td>
+    <td>[Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory](assets/papers/RDD_age_disc.pdf){:target="_blank"}</td>
+    <td>bdsa dasd</td>
+    <td>*R&R International Economic Review*</td>
   </tr>
   <tr>
     <td>Data 4</td>
