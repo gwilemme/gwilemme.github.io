@@ -11,12 +11,12 @@ title: "Research"
     <!-- RDD paper -->
     <li> <a href="assets/papers/RDD_age_disc.pdf" target="_blank">Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory</a>, 
       with <a href="https://sites.google.com/site/brunodecreuseecon" target="_blank">Bruno Decreuse</a>
-      <br>  <i>R&R International Economic Review</i>
+      <br> &nbsp; <i> - R&R International Economic Review - </i>
     </li>
     <!-- EcoGeo -->
     <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989" target="_blank">Local Labor Market Dynamics and Agglomeration Effects</a>,
       with <a href="https://sites.google.com/site/pierredeschampsecon" target="_blank">Pierre Deschamps</a>
-      <br>  <i>submitted</i>
+      <br> &nbsp; <i> - submitted - </i>
     </li>
     <!-- GeoMob -->
     <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517222" target="_blank">A Dynamic Empirical Model of Frictional Spatial Job Search</a>,
