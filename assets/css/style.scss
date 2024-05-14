@@ -52,6 +52,15 @@ a:hover, a:focus, strong {
 }
 
 
+.clist ul {
+  list-style-type: none; /* or disc */
+  margin-left: 0px; /* Add left margin for indentation */
+}
+
+.clist li {
+  margin-bottom: 5px; /* Add space between list items */
+}
+
 //// 4) Footer, not used
 footer {
   width:200px;
