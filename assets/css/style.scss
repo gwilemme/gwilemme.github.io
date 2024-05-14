@@ -22,10 +22,6 @@ a {
   text-decoration:none;
 }
 
-a:hover {
-  color:#3F3858;
-}
-
-a:active {
+a:hover, a:focus {
   color:#3F3858;
 }
