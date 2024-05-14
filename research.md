@@ -37,7 +37,7 @@ title: "Research"
       </a>
       , with <a href="https://www.uv.es/~beneito" target="_blank"> Pilar Beneito</a>, 
       <a href="https://mgarcia-vega.wixsite.com/mariagarciavega" target="_blank"> Mar&iacute;a Garc&iacute;a-Vega</a>, 
-      and <a href="[https://www.uv.es/~beneito](https://scholar.google.es/citations?user=OuwooxUAAAAJ&hl=es)" target="_blank"> &Ograve;scar Vicente-Chirivella</a>
+      and <a href="https://scholar.google.es/citations?user=OuwooxUAAAAJ&hl=es" target="_blank"> &Oacute;scar Vicente-Chirivella</a>
     </li>
         <!-- Couples -->
     <li>
