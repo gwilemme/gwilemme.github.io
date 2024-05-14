@@ -7,16 +7,6 @@ title: "Research"
 
 #### Working Papers
 
-<div class="rlist">
-  <ul>
-    <li> - [Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory](assets/papers/RDD_age_disc.pdf){:target="_blank"}, *R&R International Economic Review*, 
-      <br> with [Bruno Decreuse](https://sites.google.com/site/brunodecreuseecon/){:target="_blank"}</li>
-    <li>This is the second item</li>
-    <li>This is the third item</li>
-  </ul>
-</div>
-
-
 - [Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory](assets/papers/RDD_age_disc.pdf){:target="_blank"}, *R&R International Economic Review*, with [Bruno Decreuse](https://sites.google.com/site/brunodecreuseecon/){:target="_blank"}
 
 - [Local Labor Market Dynamics and Agglomeration Effects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989){:target="_blank"}, with [Pierre Deschamps](https://sites.google.com/site/pierredeschampsecon/){:target="_blank"} 
