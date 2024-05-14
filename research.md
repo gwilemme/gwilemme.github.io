@@ -26,8 +26,6 @@ title: "Research"
         Pierre Deschamps
       </a>
     </li>
-
-    
     <li>This is the third item</li>
   </ul>
 </div>
