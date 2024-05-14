@@ -37,13 +37,15 @@ title: "Research"
         Robots and Firms’ Labour Search: The Role of Temporary Work Agencies
       </a>
       , with <a href="https://www.uv.es/~beneito" target="_blank"> Pilar Beneito</a>
+      , <a href="https://mgarcia-vega.wixsite.com/mariagarciavega" target="_blank"> Mar&iacute;a Garc&iacute;a-Vega</a>
+      , and <a href="[https://www.uv.es/~beneito](https://scholar.google.es/citations?user=OuwooxUAAAAJ&hl=es)" target="_blank"> &Ograve;scar Vicente-Chirivella</a>
     </li>
         <!-- GeoMob -->
     <li>
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517222" target="_blank">  
-        A Dynamic Empirical Model of Frictional Spatial Job Search
+      <a href="https://research.upjohn.org/up_workingpapers/346" target="_blank">  
+        Career Paths with a Two-Body Problem: Occupational Specialization and Geographic Mobility
       </a>
-      , with <a href="https://www.uv.es/~beneito" target="_blank"> Pilar Beneito</a>
+      , with <a href="https://www.valeriarueda.org" target="_blank"> Valeria Rueda</a>
     </li>
   </ul>
 </div>
