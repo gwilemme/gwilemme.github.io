@@ -8,11 +8,6 @@ title: "Research"
 #### Working Papers
 <div class="rlist">
   <ul>
-    <!-- RDD paper -->
-    <li> <a href="assets/papers/RDD_age_disc.pdf" target="_blank">Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory</a>, 
-      with <a href="https://sites.google.com/site/brunodecreuseecon" target="_blank">Bruno Decreuse</a>
-      <br> &nbsp; <i> - accepted at International Economic Review - </i>
-    </li>
     <!-- EcoGeo -->
     <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989" target="_blank">Local Labor Market Dynamics and Agglomeration Effects</a>,
       with <a href="https://sites.google.com/site/pierredeschampsecon" target="_blank">Pierre Deschamps</a>
@@ -41,11 +36,15 @@ title: "Research"
 #### Published
 <div class="rlist">
   <ul>
-    <!-- Tax paper -->
-    <li> Wilemme, G. (2021). Optimal Taxation to Correct Job Mismatching. <i>Review of Economic Dynamics</i>, 40:170-197. &nbsp;&nbsp; ---> [<a href="https://doi.org/10.1016/j.red.2020.09.011" target="_blank">article</a>, <a href="assets/papers/opmismatch.pdf" target="_blank">WP</a>, <a href="https://github.com/gwilemme/Opmismatch" target="_blank">codes</a>]
+    <!-- RDD paper -->
+    <li> Decreuse, B. and G. Wilemme (forth.). Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory, <i>International Economic Review</i>.
+      &nbsp;&nbsp; ---> [<a href="assets/papers/RDD_age_disc.pdf" target="_blank">2019 WP</a>, <a href="https://github.com/gwilemme/RDD_age_disc" target="_blank">codes</a>]
     </li>
     <!-- NotreDame -->
-    <li> Rueda, V. & Wilemme, G. (2023). 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods, <i>Revue Economique</i>, 74:1053-1065. &nbsp;&nbsp; ---> [<a href="https://doi.org/10.3917/reco.746.1053" target="_blank">article</a>]
+    <li> Rueda, V. and G. Wilemme (2023). 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods, <i>Revue Economique</i>, 74:1053-1065. &nbsp;&nbsp; ---> [<a href="https://doi.org/10.3917/reco.746.1053" target="_blank">article</a>]
+    </li>
+    <!-- Tax paper -->
+    <li> Wilemme, G. (2021). Optimal Taxation to Correct Job Mismatching. <i>Review of Economic Dynamics</i>, 40:170-197. &nbsp;&nbsp; ---> [<a href="https://doi.org/10.1016/j.red.2020.09.011" target="_blank">article</a>, <a href="assets/papers/opmismatch.pdf" target="_blank">WP</a>, <a href="https://github.com/gwilemme/Opmismatch" target="_blank">codes</a>]
     </li>
   </ul>
 </div>
