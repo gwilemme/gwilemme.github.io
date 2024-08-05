@@ -38,7 +38,7 @@ title: "Research"
   <ul>
     <!-- RDD paper -->
     <li> Decreuse, B. and G. Wilemme (forth.). Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory, <i>International Economic Review</i>.
-      &nbsp;&nbsp; ---> [<a href="assets/papers/RDD_age_disc.pdf" target="_blank">2019 WP</a>, <a href="https://github.com/gwilemme/RDD_age_disc" target="_blank">codes</a>]
+      &nbsp;&nbsp; ---> [<a href="http://doi.org/10.1111/iere.12726" target="_blank">article</a>, <a href="assets/papers/RDD_age_disc.pdf" target="_blank">2019 WP</a>, <a href="https://github.com/gwilemme/RDD_age_disc" target="_blank">codes</a>]
     </li>
     <!-- NotreDame -->
     <li> Rueda, V. and G. Wilemme (2023). 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods, <i>Revue Economique</i>, 74:1053-1065. &nbsp;&nbsp; ---> [<a href="https://doi.org/10.3917/reco.746.1053" target="_blank">article</a>]
