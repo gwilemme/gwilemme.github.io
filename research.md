@@ -44,7 +44,7 @@ title: "Research"
     <li> Rueda, V. and G. Wilemme (2023). 'Notre-Taxe de Paris', Tax Expenditures with two Public Goods, <i>Revue Economique</i>, 74:1053-1065. &nbsp;&nbsp; ---> [<a href="https://doi.org/10.3917/reco.746.1053" target="_blank">article</a>]
     </li>
     <!-- Tax paper -->
-    <li> Wilemme, G. (2021). Optimal Taxation to Correct Job Mismatching. <i>Review of Economic Dynamics</i>, 40:170-197. &nbsp;&nbsp; ---> [<a href="https://doi.org/10.1016/j.red.2020.09.011" target="_blank">article</a>, <a href="assets/papers/opmismatch.pdf" target="_blank">WP</a>, <a href="https://github.com/gwilemme/Opmismatch" target="_blank">codes</a>]
+    <li> Wilemme, G. (2021). <a href="https://doi.org/10.1016/j.red.2020.09.011" target="_blank">Optimal Taxation to Correct Job Mismatching.</a> <i>Review of Economic Dynamics</i>, 40:170-197. &nbsp;&nbsp; ---> [<a href="https://doi.org/10.1016/j.red.2020.09.011" target="_blank">article</a>, <a href="assets/papers/opmismatch.pdf" target="_blank">WP</a>, <a href="https://github.com/gwilemme/Opmismatch" target="_blank">codes</a>]
     </li>
   </ul>
 </div>
