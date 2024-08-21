@@ -37,11 +37,11 @@ title: "Research"
 <div class="rlist">
   <ul>
     <!-- RDD paper -->
-    <li> Decreuse, B. and G. Wilemme (2024). <a href="http://doi.org/10.1111/iere.12726" target="_blank">Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory</a>, <i>International Economic Review</i>.
+    <li> Decreuse, B. and G. Wilemme (forth.). <a href="http://doi.org/10.1111/iere.12726" target="_blank">Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory</a>, <i>International Economic Review</i>.
       &nbsp;&nbsp; ---> [<a href="https://github.com/gwilemme/RDD_age_disc" target="_blank">codes</a>]
     </li>
     <!-- NotreDame -->
-    <li> Rueda, V. and G. Wilemme (2023). <a href="https://doi.org/10.3917/reco.746.1053" target="_blank">'Notre-Taxe de Paris', Tax Expenditures with two Public Goods</a>, <i>Revue Economique</i>, 74:1053-1065.
+    <li> Rueda, V. and G. Wilemme (2023). <a href="https://doi.org/10.3917/reco.746.1053" target="_blank">'Notre-Taxe de Paris', Tax Expenditures with two Public Goods</a>, <i>Revue Economique</i>, 74(6):1053-1065.
     </li>
     <!-- Tax paper -->
     <li> Wilemme, G. (2021). <a href="https://doi.org/10.1016/j.red.2020.09.011" target="_blank">Optimal Taxation to Correct Job Mismatching</a>, <i>Review of Economic Dynamics</i>, 40:170-197. &nbsp;&nbsp; ---> [<a href="assets/papers/opmismatch.pdf" target="_blank">WP</a>, <a href="https://github.com/gwilemme/Opmismatch" target="_blank">codes</a>]
