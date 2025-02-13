@@ -37,7 +37,7 @@ title: "Research"
 <div class="rlist">
   <ul>
     <!-- RDD paper -->
-    <li> Decreuse, B. and G. Wilemme (forth.). <a href="http://doi.org/10.1111/iere.12726" target="_blank">Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory</a>, <i>International Economic Review</i>.
+    <li> Decreuse, B. and G. Wilemme (2025). <a href="http://doi.org/10.1111/iere.12726" target="_blank">Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory</a>, <i>International Economic Review</i>, 66:259-286.
       &nbsp;&nbsp; ---> [<a href="https://github.com/gwilemme/RDD_age_disc" target="_blank">codes</a>]
     </li>
     <!-- NotreDame -->
