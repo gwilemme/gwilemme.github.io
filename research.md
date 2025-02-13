@@ -16,7 +16,6 @@ title: "Research"
     <!-- GeoMob -->
     <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517222" target="_blank">A Dynamic Empirical Model of Frictional Spatial Job Search</a>,
       with <a href="https://christianschluter.github.io" target="_blank">Christian Schluter</a>
-      <br> &nbsp; <i> - submitted - </i>
     </li>
         <!-- Robots -->
     <li> <a href="https://www.nottingham.ac.uk/gep/documents/papers/2024/24-02.pdf" target="_blank">Robots and Firms’ Labour Search: The Role of Temporary Work Agencies</a>,
