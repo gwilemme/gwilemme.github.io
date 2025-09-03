@@ -24,7 +24,7 @@ title: "Research"
       and <a href="https://scholar.google.es/citations?user=OuwooxUAAAAJ&hl=es" target="_blank"> &Oacute;scar Vicente-Chirivella</a>
     </li>
         <!-- Couples -->
-    <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5435755" target="_blank">Colocation and Gendered Professional Crossroads</a>,
+    <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5435755" target="_blank">Career Paths with a Two-Body Problem: Colocation and Gendered Professional Crossroads</a>,
       with <a href="https://www.valeriarueda.org" target="_blank"> Valeria Rueda</a>
     </li>
   </ul>
