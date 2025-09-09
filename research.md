@@ -8,11 +8,6 @@ title: "Research"
 #### Working Papers
 <div class="rlist">
   <ul>
-    <!-- EcoGeo -->
-    <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989" target="_blank">Local Labor Market Dynamics and Agglomeration Effects</a>,
-      with <a href="https://sites.google.com/site/pierredeschampsecon" target="_blank">Pierre Deschamps</a>
-      <br> &nbsp; <i> - R&R European Economic Review - </i>
-    </li>
     <!-- GeoMob -->
     <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517222" target="_blank">A Dynamic Empirical Model of Frictional Spatial Job Search</a>,
       with <a href="https://christianschluter.github.io" target="_blank">Christian Schluter</a>
@@ -35,6 +30,9 @@ title: "Research"
 #### Published
 <div class="rlist">
   <ul>
+      <!-- EcoGeo -->
+    <li> Deschamps, P. and G. Wilemme (forthcoming). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989" target="_blank">Local Labor Market Dynamics and Agglomeration Effects</a>, <i>European Economic Review</i>.
+    </li>
     <!-- RDD paper -->
     <li> Decreuse, B. and G. Wilemme (2025). <a href="http://doi.org/10.1111/iere.12726" target="_blank">Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory</a>, <i>International Economic Review</i>, 66:259-286.
       &nbsp;&nbsp; ---> [<a href="https://github.com/gwilemme/RDD_age_disc" target="_blank">codes</a>]
@@ -53,7 +51,7 @@ title: "Research"
 #### Policy Reports
 <div class="rlist">
   <ul>
-    <li> Redesigning Labour Market Policies for the Future of Work: Lessons from the 'Intermittents du Spectacle' scheme in France,with <a href="https://sites.google.com/view/helenebenghalem" target="_blank">Hélène Benghalem</a> and <a href="https://sites.google.com/site/piotrdenderski/" target="_blank">Piotr Denderski</a> 
+    <li> Redesigning Labour Market Policies for the Future of Work: Lessons from the 'Intermittents du Spectacle' scheme in France, with <a href="https://sites.google.com/view/helenebenghalem" target="_blank">Hélène Benghalem</a> and <a href="https://sites.google.com/site/piotrdenderski/" target="_blank">Piotr Denderski</a> 
 <br> &nbsp; ---> [<a href="https://www.nuffieldfoundation.org/project/redesigning-labour-market-policies-future-of-work" target="_blank">Nuffield Foundation project</a>,
                 <a href="https://figshare.le.ac.uk/articles/report/Redesigning_Labour_Market_Policies_for_the_Future_of_Work_Lessons_from_the_Intermittents_du_Spectacle_scheme_in_France/24793638" target="_blank">report</a>]
       </li> 
