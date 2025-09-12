@@ -31,7 +31,8 @@ title: "Research"
 <div class="rlist">
   <ul>
       <!-- EcoGeo -->
-    <li> Deschamps, P. and G. Wilemme (forthcoming). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989" target="_blank">Local Labor Market Dynamics and Agglomeration Effects</a>, <i>European Economic Review</i>.
+    <li> Deschamps, P. and G. Wilemme (forthcoming). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989" target="_blank">Local Labor Market Dynamics and Agglomeration Effects</a>, <i>European Economic Review</i>
+      &nbsp;&nbsp; ---> [<a href="https://github.com/gwilemme/LocalLaborDynamics" target="_blank">codes</a>]
     </li>
     <!-- RDD paper -->
     <li> Decreuse, B. and G. Wilemme (2025). <a href="http://doi.org/10.1111/iere.12726" target="_blank">Age Discontinuity and Nonemployment Benefit Policy Evaluation through the Lens of Job Search Theory</a>, <i>International Economic Review</i>, 66:259-286.
