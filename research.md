@@ -31,7 +31,7 @@ title: "Research"
 <div class="rlist">
   <ul>
       <!-- EcoGeo -->
-    <li> Deschamps, P. and G. Wilemme (forthcoming). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941989" target="_blank">Local Labor Market Dynamics and Agglomeration Effects</a>, <i>European Economic Review</i>
+    <li> Deschamps, P. and G. Wilemme (2025 in press). <a href="https://www.sciencedirect.com/science/article/pii/S0014292125001965" target="_blank">Local Labor Market Dynamics and Agglomeration Effects</a>, <i>European Economic Review</i>
       &nbsp;&nbsp; ---> [<a href="https://github.com/gwilemme/LocalLaborDynamics" target="_blank">codes</a>]
     </li>
     <!-- RDD paper -->
